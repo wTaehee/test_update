@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+  }
+
+p {
+           
+    font-size: 40px;
+    background-color: hwb(39 19% 25%); /* only to highlight */
+   } 
+
+.good {
+    background-color: green; /* green is for good */
+   
+   }
+
+#bad {
+    background-color: red;
+   }
+
+h1 {
+    font-size: 12px;
+   }
